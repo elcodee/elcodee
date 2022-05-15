@@ -25,6 +25,26 @@ export default function Blog(){
                   <div className="single-post">
                     <div className="ih-item square effect ">
                       <a href="blog-page.html">
+                        <div className="img"><img src="https://files.elcodee.com/PROJECT/elcode%20-%20premium%20account.png" alt="premium account" /></div>
+                      </a>
+                    </div>
+                    <div className="card-body post-content">
+                      <div className="content-date">May, 2022</div>
+                      <div className="content-title">
+                        <h5><a href="blog-page.html">Premium Account Seller</a></h5>
+                      </div>
+                      <div className="content-description">
+                        <p>Web Seller Premium Account App Using NextJS & No Code Backend Kontenbase.com .<br /><hr />
+                          <a href="#!" target="tab" style={{color: "red"}}><i className="fab fa-github-square" /> &nbsp; Repositories is Private</a></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                {/* Single post*/}
+                <div className="col-lg-4 col-md-6 col-sm-12">
+                  <div className="single-post">
+                    <div className="ih-item square effect ">
+                      <a href="blog-page.html">
                         <div className="img"><img src="https://files.elcodee.com/PROJECT/Screen%20Shot%202022-05-14%20at%2011.01.14.png" alt="fazztopup" /></div>
                       </a>
                     </div>
