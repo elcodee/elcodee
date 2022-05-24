@@ -24,14 +24,34 @@ export default function Blog(){
                 <div className="col-lg-4 col-md-6 col-sm-12">
                   <div className="single-post">
                     <div className="ih-item square effect ">
-                      <a href="blog-page.html">
+                      <a href="#!">
+                        <div className="img"><img src="https://files.elcodee.com/PROJECT/elcode-pdf2text.png" alt="premium account" /></div>
+                      </a>
+                    </div>
+                    <div className="card-body post-content">
+                      <div className="content-date">May, 2022</div>
+                      <div className="content-title">
+                        <h5><a href="#!">PDF To Text Extractor</a></h5>
+                      </div>
+                      <div className="content-description">
+                        <p>Simple Tool to Extract All Text From PDF File.<br /><hr />
+                        <a href="https://elcodee.com/pdf2text" target="tab" style={{color: "cyan"}}><i className="fa fa-globe" /> &nbsp;View</a></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                {/* Single post*/}
+                <div className="col-lg-4 col-md-6 col-sm-12">
+                  <div className="single-post">
+                    <div className="ih-item square effect ">
+                      <a href="#!">
                         <div className="img"><img src="https://files.elcodee.com/PROJECT/elcode%20-%20premium%20account.png" alt="premium account" /></div>
                       </a>
                     </div>
                     <div className="card-body post-content">
                       <div className="content-date">May, 2022</div>
                       <div className="content-title">
-                        <h5><a href="blog-page.html">Premium Account Seller</a></h5>
+                        <h5><a href="#!">Premium Account Seller</a></h5>
                       </div>
                       <div className="content-description">
                         <p>Web Seller Premium Account App Using NextJS & No Code Backend Kontenbase.com .<br /><hr />
@@ -44,14 +64,14 @@ export default function Blog(){
                 <div className="col-lg-4 col-md-6 col-sm-12">
                   <div className="single-post">
                     <div className="ih-item square effect ">
-                      <a href="blog-page.html">
+                      <a href="#!">
                         <div className="img"><img src="https://files.elcodee.com/PROJECT/Screen%20Shot%202022-05-14%20at%2011.01.14.png" alt="fazztopup" /></div>
                       </a>
                     </div>
                     <div className="card-body post-content">
                       <div className="content-date">Apr, 2022</div>
                       <div className="content-title">
-                        <h5><a href="blog-page.html">Fazz Topup</a></h5>
+                        <h5><a href="#!">Fazz Topup</a></h5>
                       </div>
                       <div className="content-description">
                         <p>Topup & PPOB App Using NextJS & No Code Backend Kontenbase.com .<br /><hr />
