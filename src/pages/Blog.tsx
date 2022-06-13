@@ -25,6 +25,26 @@ export default function Blog(){
                   <div className="single-post">
                     <div className="ih-item square effect ">
                       <a href="#!">
+                        <div className="img"><img src="https://files.elcodee.com/PROJECT/elcode-kepoin.png" alt="premium account" /></div>
+                      </a>
+                    </div>
+                    <div className="card-body post-content">
+                      <div className="content-date">Jun, 2022</div>
+                      <div className="content-title">
+                        <h5><a href="#!">Kepoin Message From Anonymus</a></h5>
+                      </div>
+                      <div className="content-description">
+                        <p>Secret Message From Your Friend / Family / Others.<br /><hr />
+                        <a href="https://elcodee.com/kepo" target="tab" style={{color: "cyan"}}><i className="fa fa-globe" /> &nbsp;View</a></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                {/* Single post*/}
+                <div className="col-lg-4 col-md-6 col-sm-12">
+                  <div className="single-post">
+                    <div className="ih-item square effect ">
+                      <a href="#!">
                         <div className="img"><img src="https://files.elcodee.com/PROJECT/elcode-pdf2text.png" alt="premium account" /></div>
                       </a>
                     </div>
