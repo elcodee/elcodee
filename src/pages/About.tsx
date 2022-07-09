@@ -50,7 +50,7 @@ export default function About(){
                     <div className="col-12">
                       <h5 className="personal-title">who am <span>i ?</span></h5>
                       <h3 className="personal-title">I'm Rama Aditya, a  <span>Frontend Developer, Web
-                          Developer</span> and <span>Freelancer</span></h3>
+                          Developer, AI Engineer</span> and <span>Freelancer</span></h3>
                     </div>
                     <div className="row ">
                       <div className="col-lg-12 mt-5">
