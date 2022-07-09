@@ -17,21 +17,21 @@ export default function Blog(){
               </div>
             </div>
             {/* Blog-Section Title End */}
-              {/* Blog-Content Box Start */}
+            {/* Blog-Content Box Start */}
             <div className="blog-section animate__animated animate__fadeInUp animate__delay-2s">
               <div className="row justify-content-center">
-                {/* Single post*/}
-                <div className="col-lg-4 col-md-6 col-sm-12">
+                 {/* Single post*/}
+                 <div className="col-lg-4 col-md-6 col-sm-12">
                   <div className="single-post">
                     <div className="ih-item square effect ">
                       <a href="#!">
-                        <div className="img"><img src="https://files.elcodee.com/PROJECT/elcode-hand-tracking.png" alt="AI Hand Tracking" /></div>
+                        <div className="img"><img src="https://files.elcodee.com/PROJECT/elcode-hand-tracking.png" alt="Hand Tracking" /></div>
                       </a>
                     </div>
                     <div className="card-body post-content">
                       <div className="content-date">Jul, 2022</div>
                       <div className="content-title">
-                        <h5><a href="#!">Hand Gesture Tracking</a></h5>
+                        <h5><a href="#!">Hand Motion Tracking</a></h5>
                       </div>
                       <div className="content-description">
                         <p>Detect hand motion.<br /><hr />
@@ -40,10 +40,6 @@ export default function Blog(){
                     </div>
                   </div>
                 </div>
-                {/* Single post*/}
-            {/* Blog-Content Box Start */}
-            <div className="blog-section animate__animated animate__fadeInUp animate__delay-2s">
-              <div className="row justify-content-center">
                 {/* Single post*/}
                 <div className="col-lg-4 col-md-6 col-sm-12">
                   <div className="single-post">
