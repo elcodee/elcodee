@@ -76,7 +76,7 @@ export default function About(){
                           </li>
                           <li>
                             <span className="title">Age : </span>
-                            <span className="value"> 22 years</span>
+                            <span className="value"> 21 years</span>
                           </li>
                         </ul>
                       </div>
@@ -92,7 +92,11 @@ export default function About(){
                           </li>
                           <li>
                             <span className="title">Main Language :</span>
-                            <span className="value">Indonesia</span>
+                            <span className="value"> Indonesia</span>
+                          </li>
+                          <li>
+                            <span className="title">Second Language :</span>
+                            <span className="value"> English</span>
                           </li>
                           <li>
                             <span className="title">Freelance :</span>
