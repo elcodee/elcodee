@@ -37,4 +37,4 @@
 
 ### Look My Repo Here 👇
 
-[website]: https://elcodee.com/
+[website]: https://s.id/elcodee
