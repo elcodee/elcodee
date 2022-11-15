@@ -167,10 +167,10 @@ export const info = {
             image: "https://raw.githubusercontent.com/elcodee/certificate/main/ways-beans.png"
         },
         {
-            title: "Housy",
+            title: "React Native Crud",
             live: "",
-            source: "https://github.com/elcodee/Housy",
-            image: "https://files.elcodee.com/PROJECT/elcode-housy.png"
+            source: "https://github.com/elcodee/rn_crud",
+            image: "https://raw.githubusercontent.com/elcodee/certificate/main/rn-crud.png"
         }
     ]
 }
