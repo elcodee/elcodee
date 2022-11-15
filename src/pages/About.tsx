@@ -406,7 +406,7 @@ export default function About(){
                         <i className="fas fa-quote-left" />
                       </div>
                       <div className="testimonial-img">
-                        <img src="https://files.elcodee.com/certi/rama-bnsp.jpeg" alt="BNSP" />
+                        <img src="https://raw.githubusercontent.com/elcodee/certificate/main/rama-bnsp.jpeg" alt="BNSP" />
                       </div>
                       <p><b>BNSP</b> Multimedia Service</p>
                       {/* <div className="rating">
@@ -424,7 +424,7 @@ export default function About(){
                         <i className="fas fa-quote-left" />
                       </div>
                       <div className="testimonial-img">
-                        <img src="https://files.elcodee.com/certi/rama-lspr.png" alt="LSPR" />
+                        <img src="https://raw.githubusercontent.com/elcodee/certificate/main/rama-lspr.png" alt="LSPR" />
                       </div>
                       <p><b>LSPR</b> Radio Poster Design</p>
                       {/* <div className="rating">
@@ -442,7 +442,7 @@ export default function About(){
                         <i className="fas fa-quote-left" />
                       </div>
                       <div className="testimonial-img">
-                        <img src="https://files.elcodee.com/certi/rama-codio.png" alt="Koding Stuio" />
+                        <img src="https://raw.githubusercontent.com/elcodee/certificate/main/rama-codio.png" alt="Koding Stuio" />
                       </div>
                       <p><b>Koding Stuio</b> Fullstack Laravel Web Developer</p>
                       {/* <div className="rating">
@@ -460,7 +460,7 @@ export default function About(){
                         <i className="fas fa-quote-left" />
                       </div>
                       <div className="testimonial-img">
-                        <img src="https://files.elcodee.com/certi/rama-hacktiv8-rn.png" alt="Hackti8" />
+                        <img src="https://raw.githubusercontent.com/elcodee/certificate/main/rama-hacktiv8-rn.png" alt="Hackti8" />
                       </div>
                       <p><b>Hacktiv8</b> React & React Native </p>
                       {/* <div className="rating">
@@ -478,7 +478,7 @@ export default function About(){
                         <i className="fas fa-quote-left" />
                       </div>
                       <div className="testimonial-img">
-                        <img src="https://files.elcodee.com/certi/rama-dumbways-bootcamp-selection.png" alt="dumbways.id" />
+                        <img src="https://raw.githubusercontent.com/elcodee/certificate/main/rama-dumbways-bootcamp-selection.png" alt="dumbways.id" />
                       </div>
                       <p><b>Dumbways.id</b> Fullstack JavaScript Developer </p>
                       {/* <div className="rating">
@@ -496,7 +496,7 @@ export default function About(){
                         <i className="fas fa-quote-left" />
                       </div>
                       <div className="testimonial-img">
-                        <img src="https://files.elcodee.com/certi/rama-dumbways-preclass.png" alt="dumbways.id" />
+                        <img src="https://raw.githubusercontent.com/elcodee/certificate/main/rama-dumbways-preclass.png" alt="dumbways.id" />
                       </div>
                       <p><b>Dumbways.id</b> Junior Fullstack JavaScript Developer </p>
                       {/* <div className="rating">
@@ -514,7 +514,7 @@ export default function About(){
                         <i className="fas fa-quote-left" />
                       </div>
                       <div className="testimonial-img">
-                        <img src="https://files.elcodee.com/certi/rama-hacktiv8-intro.png" alt="hacktiv8" />
+                        <img src="https://raw.githubusercontent.com/elcodee/certificate/main/rama-hacktiv8-intro.png" alt="hacktiv8" />
                       </div>
                       <p><b>Hacktiv8</b> Into To Programing</p>
                       {/* <div className="rating">
@@ -532,7 +532,7 @@ export default function About(){
                         <i className="fas fa-quote-left" />
                       </div>
                       <div className="testimonial-img">
-                        <img src="https://files.elcodee.com/certi/rama-bwa.png" alt="build with angga" />
+                        <img src="https://raw.githubusercontent.com/elcodee/certificate/main/rama-bwa.png" alt="build with angga" />
                       </div>
                       <p><b>BWA</b> Junior Laravel Fullstack</p>
                       {/* <div className="rating">
