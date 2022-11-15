@@ -46,7 +46,7 @@ export const info = {
         },
         {
             emoji: "📧",
-            text: "work@elcodee.com"
+            text: "elcodeee@gmail.com"
         }
     ],
     socials: [
@@ -118,71 +118,53 @@ export const info = {
         {
             num: "2021 |",
             label: 'Fullstack React JavaScript Dev',
-            img: 'https://files.elcodee.com/certi/rama-dumbways-bootcamp-selection.png'
+            img: 'https://raw.githubusercontent.com/elcodee/certificate/main/rama-dumbways-bootcamp-selection.png'
         },
         {
             num: "2021 |",
             label: 'Basic Fullstack React JavaScript Dev',
-            img: 'https://files.elcodee.com/certi/rama-dumbways-preclass.png'
+            img: 'https://raw.githubusercontent.com/elcodee/certificate/main/rama-dumbways-preclass.png'
         },
         {
             num: "2021 |",
             label: 'React & React Native',
-            img: 'https://files.elcodee.com/certi/rama-hacktiv8-rn.png'
+            img: 'https://raw.githubusercontent.com/elcodee/certificate/main/rama-hacktiv8-rn.png'
         },
         {
             num: "2020 |",
             label: 'Junior Laravel Fullstack Dev',
-            img: 'https://files.elcodee.com/certi/rama-bwa.png'
+            img: 'https://raw.githubusercontent.com/elcodee/certificate/main/rama-bwa.png'
         },
         {
             num: "2019 |",
             label: 'LSPR Radio Poster Design',
-            img: 'https://files.elcodee.com/certi/rama-lspr.png'
+            img: 'https://raw.githubusercontent.com/elcodee/certificate/main/rama-lspr.png'
         },
         {
             num: "2019 |",
             label: 'BNSP Multimedia Service',
-            img: 'https://files.elcodee.com/certi/rama-bnsp.jpeg'
+            img: 'https://raw.githubusercontent.com/elcodee/certificate/main/rama-bnsp.jpeg'
         },
         {
             num: "2019 |",
             label: 'Into To Programing',
-            img: 'https://files.elcodee.com/certi/rama-hacktiv8-intro.png'
+            img: 'https://raw.githubusercontent.com/elcodee/certificate/main/rama-hacktiv8-intro.png'
         },
 // Same as above, change the emojis to match / relate to your hobbies or interests.
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
-    {
-        title: "Semi Commerce",
-        live: "https://mitrasouvenir.vercel.app", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-        source: "", // this should be a link to the **repository** of the project, where the code is hosted.
-        image: "https://files.elcodee.com/PROJECT/elcode-mitra-souvenir.png"
-    },
-        {
-            title: "Face Hand Detection",
-            live: "https://elcodee.com/ai/mesh", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: "https://files.elcodee.com/PROJECT/elcode-face-mesh.png"
-        },
-        {
-            title: "PDF To Text Extractor",
-            live: "https://elcodee.com/pdf2text",
-            source: "",
-            image: "https://files.elcodee.com/PROJECT/elcode-pdf2text.png"
-        },
         {
             title: "Meet Us",
             live: "",
             source: "https://github.com/elcodee/MeetUs",
-            image: "https://files.elcodee.com/PROJECT/elcode-meetUs.png"
+            image: "https://raw.githubusercontent.com/elcodee/MeetUs/Frontend/meetUsMain.png"
         },
         {
             title: "Ways Bean",
             live: "",
             source: "https://github.com/elcodee/waysbean",
-            image: "https://files.elcodee.com/PROJECT/elcode-waysbean.png"
+            image: "https://raw.githubusercontent.com/elcodee/certificate/main/ways-beans.png"
         },
         {
             title: "Housy",
